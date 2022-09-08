@@ -1,0 +1,60 @@
+﻿----------------09/06/2022 17:55:54
+Delhi:35
+Mumbai:30
+Hyderabad:25
+London:22
+Dubai:37
+Istanbul:23
+Paris:25
+----------------09/06/2022 18:18:53
+Mumbai:30
+----------------09/06/2022 18:21:02
+Mumbai:30
+----------------09/06/2022 18:26:49
+Mumbai:30
+----------------09/06/2022 18:27:24
+Mumbai:30
+ABCD:Related searches
+----------------09/06/2022 18:31:08
+Mumbai:30
+----------------09/07/2022 08:02:03
+----------------09/07/2022 08:05:14
+Mumbai:28
+----------------09/07/2022 10:54:39
+Mumbai:30
+----------------09/07/2022 11:13:28
+----------------09/07/2022 12:14:55
+Mumbai:31
+ABCD:
+Hyderabad:29
+London:16
+Istanbul:23
+Paris:17
+----------------09/07/2022 12:25:04
+Mumbai:31
+ABCD:Something has gone wrong while processing ABCD Reason:Could not find the user-interface (UI) element for this action.
+
+Possible solutions:
+ •  Ensure application is opened and the UI element is visible on the screen at execution time
+ •  Edit the Target of the UI activity and use Validation to debug the issue. 
+ •  If needed, re-indicate the element as its properties might have changed
+ •  Use "Check state" activity to check the application state before executing the action
+ •  Increase the "Delay before" value to allow time to the application to render entirely and become responsive
+Hyderabad:29
+London:16
+Istanbul:23
+Paris:18
+----------------09/07/2022 12:43:28
+Mumbai:31
+ABCD:Something has gone wrong while processing ABCD Reason:Could not find the user-interface (UI) element for this action.
+
+Possible solutions:
+ •  Ensure application is opened and the UI element is visible on the screen at execution time
+ •  Edit the Target of the UI activity and use Validation to debug the issue. 
+ •  If needed, re-indicate the element as its properties might have changed
+ •  Use "Check state" activity to check the application state before executing the action
+ •  Increase the "Delay before" value to allow time to the application to render entirely and become responsive
+Hyderabad:29
+London:16
+Istanbul:23
+Paris:18

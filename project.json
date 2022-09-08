@@ -1,0 +1,91 @@
+{
+  "name": "P2-TravelDesk",
+  "description": "JPMC Travel Desk",
+  "main": "Main.xaml",
+  "dependencies": {
+    "Ramesh.Custom.Activities": "[1.0.0.13]",
+    "Ramesh.Services.Activities": "[1.0.0.4]",
+    "UiPath.Database.Activities": "[1.7.0]",
+    "UiPath.Excel.Activities": "[2.12.3]",
+    "UiPath.Mail.Activities": "[1.15.2]",
+    "UiPath.PDF.Activities": "[3.6.0]",
+    "UiPath.System.Activities": "[22.4.4]",
+    "UiPath.Testing.Activities": "[22.4.3]",
+    "UiPath.UIAutomation.Activities": "[22.4.7]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "22.4.4.0",
+  "projectVersion": "1.0.116339545",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": true,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "3bf50591-ec93-4086-9d05-a8d0bd17575e",
+        "dataVariationFilePath": ".variations\\TestData_Sheet1.json",
+        "testCaseType": "TestCase",
+        "fileName": "TestCases\\TestCase-WeatherDetails3-TestData.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "1407cc1d-4fba-40e2-8cef-3c6c32bd1a65",
+        "testCaseType": "TestCase",
+        "fileName": "TestCases\\TestCase-WeatherDetails2.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "2e1e9bca-ee41-4cf8-b3aa-2a058337c5fb",
+        "testCaseType": "TestCase",
+        "fileName": "TestCases\\TestCase-WeatherDetails1.xaml"
+      }
+    ],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "1a885c49-e2fa-4edb-984b-344c3c09a94e",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "TravelDesk.xaml",
+      "uniqueId": "2378f3e3-1039-4092-ba96-ab6f8997197e",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {
+    "iconUrl": ".package/jpm_chase.png"
+  },
+  "targetFramework": "Legacy"
+}
